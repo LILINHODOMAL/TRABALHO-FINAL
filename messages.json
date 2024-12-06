@@ -1,0 +1,20 @@
+[
+  {
+    "usuarioDe": "joaosilva",
+    "usuarioPara": "mariaoliveira",
+    "mensagem": "Olá, Maria! Como você está?",
+    "data": "2024-12-06 10:00:00"
+  },
+  {
+    "usuarioDe": "mariaoliveira",
+    "usuarioPara": "joaosilva",
+    "mensagem": "Oi, João! Estou bem, e você?",
+    "data": "2024-12-06 10:05:00"
+  },
+  {
+    "usuarioDe": "Murillo Aparecido",
+    "usuarioPara": "joaosilva",
+    "mensagem": "olá tudo bem?\r\n",
+    "data": "06/12/2024, 19:35:47"
+  }
+]

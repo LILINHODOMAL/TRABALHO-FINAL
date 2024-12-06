@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "João Silva",
+    "dataNascimento": "1990-05-15",
+    "nickname": "joaosilva",
+    "email": "joao@exemplo.com",
+    "senha": "senha123"
+  },
+  {
+    "nome": "Maria Oliveira",
+    "dataNascimento": "1985-07-22",
+    "nickname": "mariaoliveira",
+    "email": "maria@exemplo.com",
+    "senha": "senha456"
+  },
+  {
+    "nome": "MURILLO",
+    "dataNascimento": "2006-02-24",
+    "nickname": "Murillo Aparecido",
+    "email": "murillo.aparecido2@gmail.com",
+    "senha": "123456789"
+  }
+]
