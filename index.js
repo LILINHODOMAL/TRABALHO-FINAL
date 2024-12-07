@@ -151,7 +151,7 @@ app.get('/usuarios', (req, res) => {
     
    <html>
         <head>
-                <h1>Usuários Cadastrados</h1>
+                <h1>Usuarios Cadastrados</h1>
             <table border="1">
             <thead>
                 <tr>
